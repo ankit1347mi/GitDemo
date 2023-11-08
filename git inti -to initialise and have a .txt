@@ -1,0 +1,20 @@
+git inti :-to initialise and have a connection b/w folder and Git
+
+
+git add filename.extension :-to add a file
+
+git add . :-to add all files and folder in the github
+
+git config --global user.name ankit1347mi
+
+git config --global user.ankitmishra9827@gmail.com
+
+git commit -m "message" :-to save changes
+
+git remote add origin repositoryPath:
+
+git push origin master 
+
+git status:- to check the status of the folder
+
+
